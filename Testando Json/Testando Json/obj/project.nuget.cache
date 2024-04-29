@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJIK29mjmt9/fIM8DbNxxfZWUFYk7kR0rWVySOZq+zoRtzi1ZNY37s1EiwjlY1Ms5eJdexT2esicJRnYsLQSXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo.scheidt\\Documents\\Repositorio\\Aula-.Net\\Testando Json\\Testando Json\\Testando Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.scheidt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

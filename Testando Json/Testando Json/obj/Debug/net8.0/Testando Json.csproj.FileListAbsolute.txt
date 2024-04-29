@@ -1,0 +1,18 @@
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Testando Json.exe
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Testando Json.deps.json
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Testando Json.runtimeconfig.json
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Testando Json.dll
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Testando Json.pdb
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.AssemblyInfoInputs.cache
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.AssemblyInfo.cs
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.csproj.CoreCompileInputs.cache
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.sourcelink.json
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.dll
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\refint\Testando Json.dll
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.pdb
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.genruntimeconfig.cache
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\ref\Testando Json.dll
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando Json.csproj.AssemblyReference.cache
+C:\Users\paulo.scheidt\Documents\Repositorio\Aula-.Net\Testando Json\Testando Json\obj\Debug\net8.0\Testando.43FB5DEE.Up2Date
